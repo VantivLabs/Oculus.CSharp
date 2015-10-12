@@ -15,23 +15,23 @@ Working with the Oculus Rift was an eye opening experience.  Hopefully the follo
 
 Here's the initial packaging and contents after opening:
 
-![Oculus.CSharp](https://github.com/mercurypay/Oculus.CSharp/blob/master/images/oculusinabox.JPG)
+![Oculus.CSharp](https://github.com/vantivlabs/Oculus.CSharp/blob/master/images/oculusinabox.JPG)
 
 The simple box within a box:
 
-![Oculus.CSharp](https://github.com/mercurypay/Oculus.CSharp/blob/master/images/dk2boxsimple.JPG)
+![Oculus.CSharp](https://github.com/vantivlabs/Oculus.CSharp/blob/master/images/dk2boxsimple.JPG)
 
 Let's see what's inside...looks interesting and fairly simple…
 
-![Oculus.CSharp](https://github.com/mercurypay/Oculus.CSharp/blob/master/images/initialboxopening.JPG)
+![Oculus.CSharp](https://github.com/vantivlabs/Oculus.CSharp/blob/master/images/initialboxopening.JPG)
 
 Unpacking the box...not quite as simple as originally expected;
 
-![Oculus.CSharp](https://github.com/mercurypay/Oculus.CSharp/blob/master/images/unpackingthebox.JPG)
+![Oculus.CSharp](https://github.com/vantivlabs/Oculus.CSharp/blob/master/images/unpackingthebox.JPG)
 
 Lots of cables!
 
-![Oculus.CSharp](https://github.com/mercurypay/Oculus.CSharp/blob/master/images/lotsofcables.JPG)
+![Oculus.CSharp](https://github.com/vantivlabs/Oculus.CSharp/blob/master/images/lotsofcables.JPG)
 
 #Prereqs
 
@@ -58,19 +58,19 @@ After filling the back of an SUV with computer equipment I made it home and star
 
 Here's the GT 720 after removing it.  I thought it looked pretty cool until I compared to the GTX 970.
 
-![Oculus.CSharp](https://github.com/mercurypay/Oculus.CSharp/blob/master/images/oldcard.JPG)
+![Oculus.CSharp](https://github.com/vantivlabs/Oculus.CSharp/blob/master/images/oldcard.JPG)
 
 Next up was installing the GTX 970.  I was in complete shock when I opened the box.  This graphics card is huge and I went  down a minor rabbit hole while trying to decipher exactly what a graphics card means.  CUDA cores, texture units, memory, etc.  Fascinating...it's like I was in a whole new world.  This graphics card was almost double the length of the 720 and that presented some challenges on how to stuff it into the case.  It's so long that while it's in the case it's impossible to open the onboard memory slots.  Not a huge deal, but it was another issue that I would run into later.
 
-![Oculus.CSharp](https://github.com/mercurypay/Oculus.CSharp/blob/master/images/oldvsnew.JPG)
+![Oculus.CSharp](https://github.com/vantivlabs/Oculus.CSharp/blob/master/images/oldvsnew.JPG)
 
 Finally with the card in place, it was time to install the new power supply.  The new power supply was a little longer than the pre-installed power supply which caused some issues, and I had to reroute cables to make things fit.  After removing almost everything from the case (even the new graphics card) I managed to install the power supply and attach all the power cables....except for one.  I'm not sure what it is called, but the cabling from the new power supply had an "8 pin connector" and the motherboard expected a 4 pin connector.  I was almost ready to give up but after some googling I found it is possible to "break" the 8 pin connector to create two 4 pin connectors.  I'm a little embarrassed to admit I had no clue about the power connector thingy but by now you get it...I am hardware challenged...but I did it!
 
-![Oculus.CSharp](https://github.com/mercurypay/Oculus.CSharp/blob/master/images/finallycomplete.JPG)
+![Oculus.CSharp](https://github.com/vantivlabs/Oculus.CSharp/blob/master/images/finallycomplete.JPG)
 
 And now for the final test...it actually worked!  Everything powered up as expected and the GTX 970 glowed a most magnificent green!
 
-![Oculus.CSharp](https://github.com/mercurypay/Oculus.CSharp/blob/master/images/powerworks.JPG)
+![Oculus.CSharp](https://github.com/vantivlabs/Oculus.CSharp/blob/master/images/powerworks.JPG)
 
 I plugged everything in again, watched some additional demos, and now I'm a VR addict with a cool new computer I "built" myself.  I know I didn't actually bake the silicon in the chips, but I did feel fairly good about myself.
 
