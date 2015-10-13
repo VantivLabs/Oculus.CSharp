@@ -77,7 +77,15 @@ I plugged everything in again, watched some additional demos, and now I'm a VR a
 
 ##Paul
 
-I unboxed the Oculus Rift, plugged it in, and it worked.
+Unboxing the Oculus Rift was a dream come true for me. I found out I was dreaming about the wrong things though. Apparently when they say to get the latest video drivers, they mean the drivers from this morning. I had the latest video driver for my shiny new EVGA GTX 970, which is the recommended video card. After I hooked up everything, I downloaded the Oculus runtime .7 beta and ran the configuration app. It told me that there was no HMD connected. The Oculus was connected and it had a light on, so I wasn’t sure what to do; there were no bangs in device manager . I put on the Oculus headset and saw a little bit of my desktop, but it was upside down. I ran the demo scene, and using keyboard combinations I got it moved over to the 1920x1080 monitor the Oculus had become. The scene was upside down for some reason. I made the monitor landscape and then the text was backwards, so I flipped the monitor. Now I could see the scene, but it was like I had strapped a 55 inch monitor to my head: wherever I looked the scene moved with me. I would rather have just looked at the scene on my actual 55 inch monitor.  
+
+I decided to do major surgery to see what was wrong.  I looked at the motion tracking camera I had set on my monitor. No lights were on. I saw that the light flashed if I unplugged then plugged in the camera. The configuration app said it was detected. Then I realized the camera had a lens cap and it was still on—lol! I removed the cap but it still didn’t work right. 
+
+I went back to the software and ran an older Oculus runtime, .6, and found it did not work at all in Windows 10. So I reinstalled .7, and as a hail mary, since I was working on motion tracking and not video, I upgraded to some beta video drivers I saw on reddit . I rebooted and it was as if someone had inserted the magic pill into the Oculus! The “no HMD found” error had gone away and it said the Oculus was ready to go.  
+
+I put on the headset and loaded the test scene. You really have to see it yourself to understand how 3D it really is. When I put on the headset, the 55 inch monitor strapped to my head locked in place and I could move my head within the scene. It is truly amazing—the head tracking makes the experience come alive! I am very impressed with how far they have come with virtual reality. You have to give this thing a try and watch some 3D video—you will not be disappointed.
+
+
 
 #Writing Code
 
@@ -116,3 +124,5 @@ Pretty sweet eh?
 
 * Virtual Desktop -- https://share.oculus.com/app/virtual-desktop -- after installing this and watching a few youtube 360 degree videos we are convinced this is one of the best demos out there.
 * The Chair -- https://share.oculus.com/app/sightline-the-chair -- we liked this one for demo purposes as well
+
+Oculus Rift, Oculus Rift DK2, and GEFORCE GTX, NVIDIA, Unity 5, Unreal Engine 4, and Corsair CX850M are registered or unregistered marks belonging to their respective owners who are unaffiliated with and do not endorse or sponsor Vantiv, and Vantiv likewise does not endorse or sponsor Oculus Rift, Oculus Rift DK2, and GEFORCE GTX, NVIDIA, Unity 5, Unreal Engine 4, and Corsair CX850M.
