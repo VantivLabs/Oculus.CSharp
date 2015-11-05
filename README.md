@@ -125,4 +125,8 @@ Pretty sweet eh?
 * Virtual Desktop -- https://share.oculus.com/app/virtual-desktop -- after installing this and watching a few youtube 360 degree videos we are convinced this is one of the best demos out there.
 * The Chair -- https://share.oculus.com/app/sightline-the-chair -- we liked this one for demo purposes as well
 
+#Legal Stuff
+
+[Privacy Policy, Copyright Notices, and Terms of Use](https://vantiv.com/privacy-policy)
+
 Oculus Rift, Oculus Rift DK2, and GEFORCE GTX, NVIDIA, Unity 5, Unreal Engine 4, and Corsair CX850M are registered or unregistered marks belonging to their respective owners who are unaffiliated with and do not endorse or sponsor Vantiv, and Vantiv likewise does not endorse or sponsor Oculus Rift, Oculus Rift DK2, and GEFORCE GTX, NVIDIA, Unity 5, Unreal Engine 4, and Corsair CX850M.
