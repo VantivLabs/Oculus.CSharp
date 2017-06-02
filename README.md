@@ -1,6 +1,6 @@
-﻿# Oculus.CSharp
+# Oculus.CSharp
 
-#Overview
+# Overview
 
 This repository provides information about the Oculus Rift specifically for those that are going to accept the Vantiv API challenge at Money20/20.  There will be some interesting challenges, but we believe there is no reward without challenge.  This repository will jumpstart your development.
 
@@ -11,7 +11,7 @@ You will hear two different stories about this device.  One is from a complete n
 
 Working with the Oculus Rift was an eye opening experience.  Hopefully the following story will provide answers to some of the issues you will face with this challenge.  They are easy to overcome, but not necessarily easy to solve on the day of the hackathon.  So beware....if you want to accept this challenge you will likely need to start now and also be prepared to ship some equipment in advance.
 
-#Unboxing the Rift DK2
+# Unboxing the Rift DK2
 
 Here's the initial packaging and contents after opening:
 
@@ -33,7 +33,7 @@ Lots of cables!
 
 ![Oculus.CSharp](https://github.com/vantivlabs/Oculus.CSharp/blob/master/images/lotsofcables.JPG)
 
-#Prereqs
+# Prereqs
 
 If you want to be a true hacker there are likely many different setups/configs, but with the limited amount of time you will have during the hackathon our guess is that you will want to hit the ground running.
 
@@ -46,7 +46,7 @@ We plan to bring at least one system with us that we can provide demos on but yo
 It would be a beautiful thing if the Oculus Rift worked on laptops, and indeed the Oculus site says it is possible:  https://support.oculus.com/hc/en-us/articles/203002766-Can-my-Oculus-Rift-Development-Kit-2-run-on-a-laptop-, but it might be a challenge and we want you setup and hacking quickly--not trying to troubleshoot setup issues all day (unless that is your interest).
 
 
-#Setup
+# Setup
 
 Now that we're through with the prereqs let’s discuss the setup process.  This is where we get into the tale of two hackers.
 
@@ -75,7 +75,7 @@ And now for the final test...it actually worked!  Everything powered up as expec
 I plugged everything in again, watched some additional demos, and now I'm a VR addict with a cool new computer I "built" myself.  I know I didn't actually bake the silicon in the chips, but I did feel fairly good about myself.
 
 
-##Paul
+## Paul
 
 Unboxing the Oculus Rift was a dream come true for me. I found out I was dreaming about the wrong things though. Apparently when they say to get the latest video drivers, they mean the drivers from this morning. I had the latest video driver for my shiny new EVGA GTX 970, which is the recommended video card. After I hooked up everything, I downloaded the Oculus runtime .7 beta and ran the configuration app. It told me that there was no HMD connected. The Oculus was connected and it had a light on, so I wasn’t sure what to do; there were no bangs in device manager . I put on the Oculus headset and saw a little bit of my desktop, but it was upside down. I ran the demo scene, and using keyboard combinations I got it moved over to the 1920x1080 monitor the Oculus had become. The scene was upside down for some reason. I made the monitor landscape and then the text was backwards, so I flipped the monitor. Now I could see the scene, but it was like I had strapped a 55 inch monitor to my head: wherever I looked the scene moved with me. I would rather have just looked at the scene on my actual 55 inch monitor.  
 
@@ -87,14 +87,14 @@ I put on the headset and loaded the test scene. You really have to see it yourse
 
 
 
-#Writing Code
+# Writing Code
 
 I realize this repo is named CSharp...so where's the code?  It turns out that I named the repo before I knew what I was doing.  Instead of writing code I decided to try out Unreal Engine 4 which, so far, does not require much coding to create a very simple 3d world.  If you do not already know Unreal Engine 4, Unity 5, and Cryengine all support VR development for the Oculus Rift, but I only tried Unreal Engine 4 as it seemed more people thought it was better.  But if I ever do manage to write some c# code you will find it here!
 
 
 This is where the "hardware" challenge gets interesting.  In theory developing a VR app with one of these engines is exactly like developing any other app and then you simply attach a VR device.  That's cool because now you, as a hackathon participant, can develop a software-only solution, demo the app with the Window'd version, and then for the people that want to really get immersed, you can provide an actual VR viewing if/when you have time.  This is likely the best option for a hackathon, but as always we do not want to put any limits on your hackathon experience.  If you want to bring hardware that satisfies the prereqs, and include the actual Oculus Rift in your two minute demo, we cannot wait to meet you and will do everything we can to make you successful!
 
-#Good Things to Know
+# Good Things to Know
 
 * We cannot stress enough the importance of the prerequisites.  We would hate for your hackathon pleasure to be killed by setup issues.  On the other hand if you plan accordingly this could be the coolest thing you do all year.
 
@@ -104,7 +104,7 @@ This is where the "hardware" challenge gets interesting.  In theory developing a
 
 * If you prefer a different VR device and want to bring it you are more than welcome to.
 
-#Vantiv Challenge
+# Vantiv Challenge
 
 There are many commerce-related use cases for VR, but the one we are going to highlight occurred to us during a brainstorming session with the team from the Vantiv Entertainment division (https://www.vantiventertainment.com/).  The concept of peer to peer betting was discussed in the context of a VR game.  Let's say Paul challenged me to a game of VR 3D Donkey Kong and we each provided five dollars to our betting pool for the "game".  We then wagered with that $5 for certain aspects of the game:  highest points, first person to clear the first screen, furthest in levels, most barrels jumped, etc.  The game itself would need to provide an API that we could connect to obtain the outcome statistics, and we would also need an application to facilitate the transfer of funds.
 
@@ -114,18 +114,18 @@ The legality of the above approach idea needs to be validated, but the cool thin
 
 Pretty sweet eh?
 
-#Useful Links
+# Useful Links
 
 * Oculus -- https://www.oculus.com/en-us/
 * Unreal Engine 4 -- https://www.unrealengine.com/what-is-unreal-engine-4
 * Unity 5 -- http://unity3d.com/5
 
-#Other cool things
+# Other cool things
 
 * Virtual Desktop -- https://share.oculus.com/app/virtual-desktop -- after installing this and watching a few youtube 360 degree videos we are convinced this is one of the best demos out there.
 * The Chair -- https://share.oculus.com/app/sightline-the-chair -- we liked this one for demo purposes as well
 
-#Legal Stuff
+# Legal Stuff
 
 [Privacy Policy, Copyright Notices, and Terms of Use](https://vantiv.com/privacy-policy)
 
